@@ -4,6 +4,8 @@ A phone friendly reader for Kannada paper. You photograph a notice, a land extra
 
 Built for the Kannada Digital Innovation Hackathon 2026 (NIE Mysuru, on Unstop), problem statement 5, Kannada Text Digitization.
 
+Source: [github.com/amantebriwal4321/odu-kannada](https://github.com/amantebriwal4321/odu-kannada)
+
 ![Reader with a fictional pension circular](docs/screenshots/reader.png)
 
 ## The problem
@@ -85,8 +87,8 @@ npm run build
 
 ## Deploy on Vercel
 
-1. Push the repo to GitHub.
-2. In Vercel, import the repo. Framework preset is Next.js. No extra config file is required.
+1. The public repo is [github.com/amantebriwal4321/odu-kannada](https://github.com/amantebriwal4321/odu-kannada).
+2. In Vercel, import that repo. Framework preset is Next.js. No extra config file is required.
 3. Deploy with no environment variables. Samples, browser OCR, offline explain, and browser speech all work.
 4. Optional, in Project Settings, Environment Variables: `SARVAM_API_KEY`, `GEMINI_API_KEY`, and `GEMINI_MODEL` if you want a different Flash id. Redeploy after saving them.
 5. Sarvam digitise is an async job. The OCR route polls for about 20 seconds (`maxDuration` 60). On a short function limit the platform may cut the call off. The client then uses the next OCR path, ending at Tesseract.
