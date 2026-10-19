@@ -1,0 +1,177 @@
+{
+  "samples": [
+    {
+      "id": "water-notice",
+      "file": "/samples/water-notice.png",
+      "sha256": "be6985ecb08702ba6f1bdbe13d3a62efa0547e2b62c2c6ca98603339163127b2",
+      "titleKn": "ನೀರಿನ ಟ್ಯಾಂಕ್ ಸೂಚನೆ",
+      "titleEn": "Water tank notice",
+      "docType": "notice",
+      "text": "ಕಾಲ್ಪನಿಕ ಮಾದರಿ\nಹಸಿರುಕೆರೆ ಗ್ರಾಮ ಪಂಚಾಯಿತಿ\nನೀರಿನ ಟ್ಯಾಂಕ್ ಸ್ವಚ್ಛತೆ ಸೂಚನೆ\nಸೂಚನೆ ಸಂಖ್ಯೆ: ಹಗ್ರಪ/ನೀರು/2026/14\n\nದಿನಾಂಕ: 12 ಅಕ್ಟೋಬರ್ 2026\n\nಗ್ರಾಮದ ನೀರಿನ ಟ್ಯಾಂಕ್ ಅನ್ನು 18 ಅಕ್ಟೋಬರ್ 2026 ರಂದು ಬೆಳಿಗ್ಗೆ 6 ಗಂಟೆಯಿಂದ ಮಧ್ಯಾಹ್ನ 2 ಗಂಟೆಯವರೆಗೆ ಸ್ವಚ್ಛಗೊಳಿಸಲಾಗುವುದು. ಆ ಸಮಯದಲ್ಲಿ ನಲ್ಲಿಯ ನೀರು ಬರುವುದಿಲ್ಲ.\n\nಮನೆಯವರು ಮುಂಚಿತವಾಗಿ ನೀರು ತುಂಬಿಸಿಕೊಳ್ಳಬೇಕು. ತೊಂದರೆ ಇದ್ದರೆ ಪಂಚಾಯಿತಿ ಕಚೇರಿಗೆ ಬನ್ನಿ.\nದೂರವಾಣಿ: 080-0000-1142\n\nಕಾರ್ಯದರ್ಶಿ\nಹಸಿರುಕೆರೆ ಗ್ರಾಮ ಪಂಚಾಯಿತಿ",
+      "summaryKn": "ಹಸಿರುಕೆರೆ ಗ್ರಾಮದ ನೀರಿನ ಟ್ಯಾಂಕ್ ಅನ್ನು 18 ಅಕ್ಟೋಬರ್ 2026 ರಂದು ಬೆಳಿಗ್ಗೆ 6 ರಿಂದ ಮಧ್ಯಾಹ್ನ 2 ರವರೆಗೆ ಸ್ವಚ್ಛ ಮಾಡುತ್ತಾರೆ. ಆ ವೇಳೆ ನಲ್ಲಿಯ ನೀರು ಬರುವುದಿಲ್ಲ. ಮನೆಯವರು ಮುಂಚೆ ನೀರು ತುಂಬಿಸಿಕೊಳ್ಳಬೇಕು. ತೊಂದರೆ ಇದ್ದರೆ ಪಂಚಾಯಿತಿ ಕಚೇರಿಗೆ ಹೋಗಬಹುದು.",
+      "summaryEn": "Hasirukere village will clean the water tank on 18 October 2026, from 6 in the morning until 2 in the afternoon. Taps will be dry during that time. Store water beforehand. The panchayat office phone on this fictional notice is 080-0000-1142.",
+      "facts": [
+        {
+          "kind": "date",
+          "value": "12 ಅಕ್ಟೋಬರ್ 2026"
+        },
+        {
+          "kind": "date",
+          "value": "18 ಅಕ್ಟೋಬರ್ 2026"
+        },
+        {
+          "kind": "office",
+          "value": "ಹಸಿರುಕೆರೆ ಗ್ರಾಮ ಪಂಚಾಯಿತಿ"
+        },
+        {
+          "kind": "reference",
+          "value": "ಹಗ್ರಪ/ನೀರು/2026/14"
+        },
+        {
+          "kind": "reference",
+          "value": "080-0000-1142"
+        },
+        {
+          "kind": "action",
+          "value": "ಮುಂಚಿತವಾಗಿ ನೀರು ತುಂಬಿಸಿಕೊಳ್ಳಬೇಕು"
+        }
+      ]
+    },
+    {
+      "id": "pension-circular",
+      "file": "/samples/pension-circular.png",
+      "sha256": "54527e16d0ea441fc1a0ed9557bf47a0de7270f6dc7d4720e79fe044ea4025dc",
+      "titleKn": "ಪಿಂಚಣಿ ಸುತ್ತೋಲೆ",
+      "titleEn": "Pension circular",
+      "docType": "circular",
+      "text": "ಕಾಲ್ಪನಿಕ ಮಾದರಿ\nಮಾದರಿ ಜಿಲ್ಲಾ ಸಮಾಜ ಕಲ್ಯಾಣ ಕಚೇರಿ\nವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ ಸುತ್ತೋಲೆ\nಸುತ್ತೋಲೆ ಸಂಖ್ಯೆ: ಮಜಿಸಕ/ಪಿಂಚಣಿ/2026/07\n\nದಿನಾಂಕ: 02 ನವೆಂಬರ್ 2026\n\nವಿಷಯ: ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ ಜೀವನ ಪ್ರಮಾಣಪತ್ರ\n\nಎಲ್ಲಾ ಪಿಂಚಣಿದಾರರು 30 ನವೆಂಬರ್ 2026 ರೊಳಗೆ ಜೀವನ ಪ್ರಮಾಣಪತ್ರವನ್ನು ತಾಲೂಕು ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಬೇಕು. ಪ್ರಮಾಣಪತ್ರ ಸಲ್ಲಿಸದಿದ್ದರೆ ಡಿಸೆಂಬರ್ ತಿಂಗಳ ₹1,200 ಪಿಂಚಣಿ ನಿಲ್ಲಬಹುದು.\n\nಒಯ್ಯಬೇಕಾದವು: ಆಧಾರ್ ನಕಲು, ಹಳೆಯ ಪಿಂಚಣಿ ಪುಸ್ತಕ, ಒಂದು ಫೋಟೋ.\n\nಕಚೇರಿ: ಮಾದರಿ ತಾಲೂಕು ಸಮಾಜ ಕಲ್ಯಾಣ ಕಚೇರಿ, ಬಸ್ ನಿಲ್ದಾಣ ರಸ್ತೆ.",
+      "summaryKn": "ಪಿಂಚಣಿದಾರರು 30 ನವೆಂಬರ್ 2026 ರೊಳಗೆ ಜೀವನ ಪ್ರಮಾಣಪತ್ರವನ್ನು ತಾಲೂಕು ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಬೇಕು. ಸಲ್ಲಿಸದಿದ್ದರೆ ಡಿಸೆಂಬರ್ ತಿಂಗಳ ₹1,200 ಪಿಂಚಣಿ ನಿಲ್ಲಬಹುದು. ಆಧಾರ್ ನಕಲು, ಹಳೆಯ ಪಿಂಚಣಿ ಪುಸ್ತಕ, ಒಂದು ಫೋಟೋ ತನ್ನಿ.",
+      "summaryEn": "Pensioners must submit a life certificate at the taluk office by the deadline of 30 November 2026. Without it, the December pension of ₹1,200 may stop. Bring an Aadhaar copy, the old pension book, and one photo.",
+      "facts": [
+        {
+          "kind": "date",
+          "value": "02 ನವೆಂಬರ್ 2026"
+        },
+        {
+          "kind": "deadline",
+          "value": "30 ನವೆಂಬರ್ 2026"
+        },
+        {
+          "kind": "amount",
+          "value": "₹1,200"
+        },
+        {
+          "kind": "office",
+          "value": "ಮಾದರಿ ತಾಲೂಕು ಸಮಾಜ ಕಲ್ಯಾಣ ಕಚೇರಿ"
+        },
+        {
+          "kind": "reference",
+          "value": "ಮಜಿಸಕ/ಪಿಂಚಣಿ/2026/07"
+        },
+        {
+          "kind": "action",
+          "value": "ಜೀವನ ಪ್ರಮಾಣಪತ್ರವನ್ನು ತಾಲೂಕು ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಬೇಕು"
+        }
+      ]
+    },
+    {
+      "id": "land-record",
+      "file": "/samples/land-record.png",
+      "sha256": "faf09ca66524ef50c964e25127f70a2518e89766bbd029283034c4d19785df3d",
+      "titleKn": "ಭೂ ದಾಖಲೆ",
+      "titleEn": "Land record",
+      "docType": "land_record",
+      "text": "ಕಾಲ್ಪನಿಕ ಮಾದರಿ\nಭೂ ದಾಖಲೆ ತುಣುಕು\nಪಹಣಿ / ಆರ್.ಟಿ.ಸಿ ಮಾದರಿ\n\nಗ್ರಾಮ: ಬೆಳದಿಮ್ಮನಹಳ್ಳಿ\nಸರ್ವೆ ಸಂಖ್ಯೆ: 48/2ಎ\nಖಾತೆದಾರರ ಹೆಸರು: ಲಕ್ಷ್ಮಿ ಬಾಯಿ ನಾಗರಾಜು\nವಿಸ್ತೀರ್ಣ: 1 ಎಕರೆ 12 ಗುಂಟೆ\nಬೆಳೆ: ರಾಗಿ\nಖಾತೆ ಸಂಖ್ಯೆ: ಖಾ-219\nದಾಖಲೆ ದಿನಾಂಕ: 05 ಸೆಪ್ಟೆಂಬರ್ 2026\n\nಇದು ಕೇವಲ ಕಾಲ್ಪನಿಕ ಓದು ಮಾದರಿ. ನಿಜವಾದ ಹಕ್ಕು ಅಥವಾ ಅಳತೆಯಲ್ಲ.\nಕಂದಾಯ ಕಚೇರಿ, ಮಾದರಿ ಹೋಬಳಿ",
+      "summaryKn": "ಬೆಳದಿಮ್ಮನಹಳ್ಳಿ ಗ್ರಾಮದ ಸರ್ವೆ ಸಂಖ್ಯೆ 48/2ಎ ಖಾತೆ ಲಕ್ಷ್ಮಿ ಬಾಯಿ ನಾಗರಾಜು ಅವರ ಹೆಸರಿನಲ್ಲಿದೆ. ವಿಸ್ತೀರ್ಣ 1 ಎಕರೆ 12 ಗುಂಟೆ, ಬೆಳೆ ರಾಗಿ. ದಾಖಲೆ ದಿನಾಂಕ 05 ಸೆಪ್ಟೆಂಬರ್ 2026. ಇದು ಕಾಲ್ಪನಿಕ ತುಣುಕು, ನಿಜವಾದ ಹಕ್ಕಲ್ಲ.",
+      "summaryEn": "Fictional land extract for survey number 48/2A in Beladimmanahalli. The account holder is Lakshmi Bai Nagaraju. Area is 1 acre and 12 guntas, crop is ragi. Record date is 5 September 2026. Not a real right or measurement.",
+      "facts": [
+        {
+          "kind": "reference",
+          "value": "48/2ಎ"
+        },
+        {
+          "kind": "name",
+          "value": "ಲಕ್ಷ್ಮಿ ಬಾಯಿ ನಾಗರಾಜು"
+        },
+        {
+          "kind": "date",
+          "value": "05 ಸೆಪ್ಟೆಂಬರ್ 2026"
+        },
+        {
+          "kind": "reference",
+          "value": "ಖಾ-219"
+        },
+        {
+          "kind": "office",
+          "value": "ಕಂದಾಯ ಕಚೇರಿ, ಮಾದರಿ ಹೋಬಳಿ"
+        },
+        {
+          "kind": "other",
+          "value": "1 ಎಕರೆ 12 ಗುಂಟೆ, ಬೆಳೆ ರಾಗಿ"
+        }
+      ]
+    },
+    {
+      "id": "clinic-letter",
+      "file": "/samples/clinic-letter.png",
+      "sha256": "fca762900438036e52e9f3f52f1c6c85748dfdc1ba05e6cf0ea693369fa1c415",
+      "titleKn": "ಆಸ್ಪತ್ರೆ ಪತ್ರ",
+      "titleEn": "Clinic letter",
+      "docType": "letter",
+      "text": "ಕಾಲ್ಪನಿಕ ಮಾದರಿ\nಅರಳಿ ದಿನಚರಿ ಆಸ್ಪತ್ರೆ\nಬಸವನಗುಡಿ ಬಡಾವಣೆ, ಮಾದರಿ ಪಟ್ಟಣ\n\nದಿನಾಂಕ: 09 ಮಾರ್ಚ್ 2026\n\nಮಾನ್ಯರೇ,\n\nನಿಮ್ಮ ತಪಾಸಣೆ ವರದಿ ಸಿದ್ಧವಾಗಿದೆ. ದಯವಿಟ್ಟು 16 ಮಾರ್ಚ್ 2026 ಬೆಳಿಗ್ಗೆ 9:30 ಕ್ಕೆ ಆಸ್ಪತ್ರೆ ಕಚೇರಿಗೆ ಬನ್ನಿ. ರಿಪೋರ್ಟ್ ಪುಸ್ತಕವನ್ನು ತನ್ನಿ.\n\nಪಾವತಿ ಬಾಕಿ: ₹350. ಇದನ್ನು ಆಗಮನದ ದಿನ ಕೊಡಬಹುದು.\n\nವೈದ್ಯರ ಹೆಸರು: ಡಾ. ಮೀನಾಕ್ಷಿ ಹೆಗಡೆ\nಪತ್ರ ಸಂಖ್ಯೆ: ಅದಾಸ/ಪ/2026/33\n\nಇದು ಕಾಲ್ಪನಿಕ ಪತ್ರ. ನಿಜವಾದ ವೈದ್ಯಕೀಯ ಸಲಹೆಯಲ್ಲ.",
+      "summaryKn": "ಅರಳಿ ದಿನಚರಿ ಆಸ್ಪತ್ರೆಯ ಪತ್ರ. ತಪಾಸಣೆ ವರದಿ ಸಿದ್ಧವಾಗಿದೆ. 16 ಮಾರ್ಚ್ 2026 ಬೆಳಿಗ್ಗೆ 9:30 ಕ್ಕೆ ಆಸ್ಪತ್ರೆಗೆ ಬನ್ನಿ. ಬಾಕಿ ₹350. ವೈದ್ಯರು ಡಾ. ಮೀನಾಕ್ಷಿ ಹೆಗಡೆ. ಇದು ನಿಜವಾದ ವೈದ್ಯಕೀಯ ಸಲಹೆಯಲ್ಲ.",
+      "summaryEn": "A fictional clinic letter from Arali Day Clinic. The test report is ready. Come to the hospital office on 16 March 2026 at 9:30 in the morning and bring the report book. Balance due is ₹350. The doctor named here is Dr Meenakshi Hegde. Not real medical advice.",
+      "facts": [
+        {
+          "kind": "date",
+          "value": "09 ಮಾರ್ಚ್ 2026"
+        },
+        {
+          "kind": "date",
+          "value": "16 ಮಾರ್ಚ್ 2026"
+        },
+        {
+          "kind": "amount",
+          "value": "₹350"
+        },
+        {
+          "kind": "name",
+          "value": "ಡಾ. ಮೀನಾಕ್ಷಿ ಹೆಗಡೆ"
+        },
+        {
+          "kind": "office",
+          "value": "ಅರಳಿ ದಿನಚರಿ ಆಸ್ಪತ್ರೆ"
+        },
+        {
+          "kind": "reference",
+          "value": "ಅದಾಸ/ಪ/2026/33"
+        },
+        {
+          "kind": "action",
+          "value": "16 ಮಾರ್ಚ್ 2026 ಬೆಳಿಗ್ಗೆ 9:30 ಕ್ಕೆ ಆಸ್ಪತ್ರೆ ಕಚೇರಿಗೆ ಬನ್ನಿ"
+        }
+      ]
+    },
+    {
+      "id": "book-page",
+      "file": "/samples/book-page.png",
+      "sha256": "5413fc68bb7a65131dc0b7ef2df9b867d471199f6f53b96621fd5d6c1d2b844f",
+      "titleKn": "ಮಳೆ ಬಂದ ಮೇಲೆ",
+      "titleEn": "Book page",
+      "docType": "book",
+      "text": "ಕಾಲ್ಪನಿಕ ಮಾದರಿ\nಮಳೆ ಬಂದ ಮೇಲೆ\nಒಂದು ಸಣ್ಣ ಪುಟ\n\nಮಲೆನಾಡಿನ ಬೆಟ್ಟದ ಮೇಲೆ ಮೋಡ ಕುಳಿತಾಗ ಊರಿನ ಜನ ಕೆರೆ ಕಡೆ ನೋಡುತ್ತಾರೆ. ಮೊದಲ ಸುರಿಗೆ ಮಣ್ಣಿನ ವಾಸನೆ ಏರುತ್ತದೆ. ಮಕ್ಕಳು ಅಂಗಳದಲ್ಲಿ ಕಾಗದದ ದೋಣಿ ಬಿಡುತ್ತಾರೆ.\n\nಈ ಪುಟ ಕಾಲ್ಪನಿಕ ಪುಸ್ತಕದಿಂದ. ಯಾವುದೇ ಲೇಖಕರ ಹಕ್ಕಿನ ಪುಟವಲ್ಲ.\nಪುಟ 12",
+      "summaryKn": "ಮಲೆನಾಡಿನಲ್ಲಿ ಮೊದಲ ಮಳೆ ಬಂದಾಗ ಮಣ್ಣಿನ ವಾಸನೆ ಏರುತ್ತದೆ. ಮಕ್ಕಳು ಅಂಗಳದಲ್ಲಿ ಕಾಗದದ ದೋಣಿ ಬಿಡುತ್ತಾರೆ. ಇದು ಕಾಲ್ಪನಿಕ ಪುಸ್ತಕದ ಪುಟ 12.",
+      "summaryEn": "A fictional book page about the first rain in Malnad. Clouds sit on the hill, the soil smells of rain, and children float paper boats in the yard. Page 12. Not from a copyrighted book.",
+      "facts": [
+        {
+          "kind": "other",
+          "value": "ಪುಟ 12"
+        },
+        {
+          "kind": "other",
+          "value": "ಮಲೆನಾಡಿನ ಮೊದಲ ಮಳೆ"
+        }
+      ]
+    }
+  ]
+}
